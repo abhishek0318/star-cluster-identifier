@@ -12,4 +12,4 @@ This repository contains IIT (BHU) Varanasi's solution for Star Cluster Identifi
 
 * `Problem Statement.pdf` is the problem statement of the event.
 * `IIT (BHU) Varanasi.ipynb` contains our submission.
-* `Solution.ipynb` contains submission provided by the organisers after the event.
+* `Solution.ipynb` contains solution provided by the organisers after the event.
